@@ -1,0 +1,3 @@
+.venv/
+data/synthetic/run_*/
+__pycache__/
